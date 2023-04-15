@@ -9,7 +9,12 @@
     width: 100%;
     height: 150px;
     background-color: rgb(205, 6, 255);
-    font-size: 51px;text-align: center;
+    font-size: 18px;text-align: center;
+    text-align: center;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+
     
 }
 .menu{
@@ -18,40 +23,41 @@
     height: 100px;
     background-color: rgb(255, 254, 255);
     display: flex;
+    
    
 }
-.Sociales{ 
-    width: 90px;
-    height: 98px;
+.Tecnología{ 
+    width: 120px;
+    height: 78px;
     background-color: rgb(175, 93, 212);
-    margin: 2px;
+    margin: 18px;
  
 }
 .Inglés{
-    width: 90px;
-    height: 98px;
+    width: 120px;
+    height: 78px;
     background-color: rgb(255, 0, 255);
-    margin: 2px;
+    margin: 18px;
 
 }
 .Matemáticas{
-    width: 90px;
-    height: 98px;
+    width: 120px;
+    height: 78px;
     background-color: rgb(134, 57, 145);
-    margin: 2px;
+    margin: 18px;
 }
 .Biologia{
-    width: 90px;
-    height: 98px;
+    width: 120px;
+    height: 78px;
     background-color: plum;
-    margin: 2px;
+    margin: 18px;
 }
 
-.Tecnología{
-    width: 90px;
-    height: 98px;
+.Sociales{
+    width: 120px;
+    height: 78px;
     background-color: mediumslateblue;
-    margin: 2px;
+    margin: 18px;
 }
 .contenedor2{
 
@@ -60,7 +66,7 @@
     background-color: rgb(189, 110, 166);
     display: flex;
 }
-.izquierdo{
+.derecha{
 
     width: 20%;
     height: 1200px;
@@ -72,7 +78,7 @@
     height: 1200px;
     background-color: rgba(255, 255, 255, 0.753);
 }
-.derecho{
+.izquierda{
 
     width: 20%;
     height: 1200px;
